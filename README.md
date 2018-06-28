@@ -1,3 +1,3 @@
-Linear Regression on Wine Quality Dataset
-Logistic Regession on Titanic Dataset
-Lots of Seaborn Plots
+1. Linear Regression on Wine Quality Dataset
+2. Logistic Regession on Titanic Dataset
+3. Lots of Seaborn Plots
